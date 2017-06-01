@@ -1,24 +1,4 @@
-# README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+URL index: https://gentle-river-27432.herokuapp.com/
+webhook: https://gentle-river-27432.herokuapp.com/api/from_webhooks
+PUT: Recibe PUT cuando se actualiza la información de package
+POST: Recibe POST cuando se crea la información del package
